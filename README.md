@@ -1,1 +1,1 @@
-#This project is based of django called Weather App which shows the Temperature
+# This project is based of django called Weather App which shows the Temperature
